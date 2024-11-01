@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-logo-for-the-app-taskflow-an-illustration-of-a-c-Lmnm01rsSIWQec4IXq_J2g-NYtd7MzQS6CwCiATTH6m1Q.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

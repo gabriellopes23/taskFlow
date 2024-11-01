@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  TaskFlow
-//
-//  Created by Gabriel Lopes on 01/11/24.
-//
 
 import SwiftUI
 
